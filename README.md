@@ -6,4 +6,4 @@
 ![week1](Pulley/IMG_0676 [640i].gif)
 ![week1](Pulley/IMG_0677 [640i].gif)
 # Week 2
-![week2](IMG_0676 [640i].gif)
+![week2](/LED/IMG_0676 [640i].gif)

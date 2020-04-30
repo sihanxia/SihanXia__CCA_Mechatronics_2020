@@ -12,3 +12,6 @@
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/IMG_1207(1).gif)
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/IMG_1215(1).gif)
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/sd1582254138_2%20%5B640i%5D.gif)
+# Week 5-6
+![week5-6](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Motor/IMG_1227.gif)
+![week5-6](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Motor/IMG_1228.gif)

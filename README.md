@@ -16,3 +16,9 @@
 ![week5-6](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Motor/IMG_1227.gif)
 ![week5-6](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Motor/IMG_1228.gif)
 
+# Mid-term
+![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2407(20200430-210539).JPG)
+![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2408(20200430-210537).JPG)
+![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/Midterm%20project.gif)
+![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/Mid-term%202.gif)
+![Mid-term](https://youtu.be/ZndI5C-QjuU)

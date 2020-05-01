@@ -29,3 +29,6 @@ Mid-term video: https://youtu.be/ZndI5C-QjuU
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/IMG_3036.JPG)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/IMG_3035.JPG)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/Final%20code.txt)
+![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final2/20200430213849_HD.gif)
+![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final2/IMG_3026.gif)
+![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final2/20200430214202_HD.gif)

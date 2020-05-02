@@ -42,6 +42,7 @@ Code:
 Mid-term video: https://youtu.be/ZndI5C-QjuU
 
 # Final
+Click to see the final proposal:
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/final%20project%20proposal.doc)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/IMG_2905.JPG)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/IMG_3036.JPG)

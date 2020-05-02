@@ -1,6 +1,6 @@
 # SihanXia__CCA_Mechatronics_2020
 # Week 1-2
-Linkage
+Linkage:
 The first one failed because the pulley would get stuck with too much friction during rotation
 ![week1](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Pulley/IMG_3060.JPG)
 ![week1](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Pulley/IMG_3061.JPG)

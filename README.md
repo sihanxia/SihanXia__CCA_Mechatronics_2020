@@ -14,6 +14,7 @@ And then I did the second one, and I fixed the shaft of the pulley in the middle
 ![week1](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Pulley/IMG_0676%20%5B640i%5D.gif)
 ![week1](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Pulley/IMG_0677%20%5B640i%5D.gif)
 # Week 3-4
+Class exercise:
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/IMG_0865%20%5B640i%5D.gif)
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/IMG_0866%20%5B640i%5D.gif)
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/IMG_0867%20%5B640i%5D.gif)

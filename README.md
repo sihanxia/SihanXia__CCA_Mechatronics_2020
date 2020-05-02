@@ -26,6 +26,12 @@ Class exercise:
 ![week5-6](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Motor/IMG_1228.gif)
 
 # Mid-term
+The linkage:
+![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_3056.JPG)
+![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_3057.JPG)
+![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_3058.JPG)
+![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_3059.JPG)
+Code:
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2407(20200430-210539).JPG)
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2408(20200430-210537).JPG)
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/Midterm%20project.gif)

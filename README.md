@@ -48,14 +48,14 @@ The first thing I plan to do is use; The capacitive sensor controls the servo mo
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/IMG_2905.JPG)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/IMG_3036.JPG)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/IMG_3035.JPG)
-![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/Final%20code.txt)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final2/20200430213849_HD.gif)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final2/IMG_3026.gif)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final2/20200430214202_HD.gif)
-![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/Final%20code.txt)
+
 Final video1(CapacitiveSensor piano):https://youtu.be/Lfuaku4985Y
 Final video1 code:
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/Final%20code.txt)
+
+Final video2(Melody):https://youtu.be/XTN3QwFY7os
 Final video2 code:
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/%E6%96%87%E6%9C%AC(2020-05-01%20135809).txt)
-Final video2(Melody):https://youtu.be/XTN3QwFY7os

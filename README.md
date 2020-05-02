@@ -31,6 +31,9 @@ The linkage:
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_3057.JPG)
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_3058.JPG)
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_3059.JPG)
+Arduino control dc motor:
+![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2412(1).JPG)
+![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2414.JPG)
 Code:
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2407(20200430-210539).JPG)
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2408(20200430-210537).JPG)

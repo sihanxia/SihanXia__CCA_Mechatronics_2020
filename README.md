@@ -32,6 +32,7 @@ The linkage:
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_3058.JPG)
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_3059.JPG)
 Arduino control dc motor:
+
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2412(1).JPG)
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2414.JPG)
 Code:
@@ -45,7 +46,12 @@ Mid-term video: https://youtu.be/ZndI5C-QjuU
 # Final
 Click to see the final proposal:
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/final%20project%20proposal.doc)
-The first thing I plan to do is use; The capacitive sensor controls the servo motor, but it failed because I didn't have enough resistance (10M); I'm trying to control it with a resistance of 1M; However, due to the insufficient resistance, the motor was not successfully controlled, and only the LED was successfully controlled. (the failed test can be seen in the video in my folder "final 2" :20200430214550_HD.MP4,20200430211350_HD.MP4
+The first thing I plan to do is use; The capacitive sensor controls the servo motor, but it failed because I didn't have enough resistance (10M); I'm trying to control it with a resistance of 1M; However, due to the insufficient resistance, the motor was not successfully controlled, and only the LED was successfully controlled. (the failed test can be seen in the video in my folder "final 2" :20200430214550_HD.MP4,20200430211350_HD.MP4.  
+
+Then I dicided to do "Tone" first I made a capacitivesensor piano. (Use the coductive paint showed in my final proposal); And I also did a simple melody controled by button.
+
+The conductive paint piano.(The first one for testing. The second one is the final one)
+
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/IMG_2905.JPG)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/IMG_3036.JPG)
 ![Final](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Final1/IMG_3035.JPG)

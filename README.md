@@ -39,6 +39,7 @@ Code:
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/IMG_2408(20200430-210537).JPG)
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/Midterm%20project.gif)
 ![Mid-term](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Midterm/Mid-term%202.gif)
+
 Mid-term video: https://youtu.be/ZndI5C-QjuU
 
 # Final

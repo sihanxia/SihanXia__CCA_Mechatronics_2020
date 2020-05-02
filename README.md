@@ -1,5 +1,11 @@
 # SihanXia__CCA_Mechatronics_2020
 # Week 1-2
+The first one failed because the pulley would get stuck with too much friction during rotation
+![week1](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Pulley/IMG_3060.JPG)
+![week1](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Pulley/IMG_3061.JPG)
+![week1](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Pulley/IMG_3060.JPG)
+![week1](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Pulley/IMG_3063.JPG)
+
 ![week1](/Pulley/IMG_0660.JPG)
 ![week1](Pulley/IMG_0661.JPG)
 ![week1](Pulley/IMG_0674.JPG)

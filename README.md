@@ -22,6 +22,82 @@ Class exercise:
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/IMG_1207(1).gif)
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/IMG_1215(1).gif)
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/sd1582254138_2%20%5B640i%5D.gif)
+Homework:
+
+![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/20200506210718_HD~1.gif)
+Code:
+//initializing a variable for digital pin 2 to 10
+int led1 = 2;
+int led2 = 3;
+int led3 = 4;
+int led4 = 5;
+int led5 = 6;
+int led6 = 7;
+int led7 = 8;
+int led8 = 9;
+int led9 = 10;
+int led10 = 11;
+
+void setup() {
+  // put your setup code here, to run once:
+ //initialize digital pin as output
+ pinMode(led1, OUTPUT);
+ pinMode(led2, OUTPUT);
+ pinMode(led3, OUTPUT);
+ pinMode(led4, OUTPUT);
+ pinMode(led5, OUTPUT);
+ pinMode(led6, OUTPUT);
+ pinMode(led7, OUTPUT);
+ pinMode(led8, OUTPUT);
+ pinMode(led9, OUTPUT);
+ pinMode(led10, OUTPUT);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+ digitalWrite(led1, HIGH);//it mean to give 5v(high) to pins.here ,the led will be on.
+ delay(1000);//1000 = 1 second
+ digitalWrite(led2, HIGH);
+ delay(1000);
+ digitalWrite(led3, HIGH);
+ delay(1000);
+  digitalWrite(led4, HIGH);
+ delay(1000);
+  digitalWrite(led5, HIGH);
+ delay(1000);
+  digitalWrite(led6, HIGH);
+ delay(1000);
+  digitalWrite(led7, HIGH);
+ delay(1000);
+  digitalWrite(led8, HIGH);
+ delay(1000);
+  digitalWrite(led9, HIGH);
+ delay(1000);
+  digitalWrite(led10, HIGH);
+ delay(1000);
+
+ digitalWrite(led1, LOW);//it mean to give 0v(low) to pin.here, led will be off
+ delay(1000);
+ digitalWrite(led2, LOW);
+ delay(1000);
+ digitalWrite(led3, LOW);
+ delay(1000);
+ digitalWrite(led4, LOW);
+ delay(1000);
+ digitalWrite(led5, LOW);
+ delay(1000);
+ digitalWrite(led6, LOW);
+ delay(1000);
+ digitalWrite(led7, LOW);
+ delay(1000);
+ digitalWrite(led8, LOW);
+ delay(1000);
+ digitalWrite(led9, LOW);
+ delay(1000);
+ digitalWrite(led10, LOW);
+ delay(1000);
+}
+
 # Week 5-6
 ![week5-6](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Motor/IMG_1227.gif)
 ![week5-6](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Motor/IMG_1228.gif)

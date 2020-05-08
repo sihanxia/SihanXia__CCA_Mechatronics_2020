@@ -14,6 +14,7 @@ And then I did the second one, and I fixed the shaft of the pulley in the middle
 ![week1](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Pulley/IMG_0676%20%5B640i%5D.gif)
 ![week1](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/Pulley/IMG_0677%20%5B640i%5D.gif)
 # Week 3-4
+
 Class exercise:
 
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/IMG_0865%20%5B640i%5D.gif)
@@ -22,9 +23,11 @@ Class exercise:
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/IMG_1207(1).gif)
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/IMG_1215(1).gif)
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/sd1582254138_2%20%5B640i%5D.gif)
+
 Homework:
 
 ![week3-4](https://github.com/sihanxia/SihanXia__CCA_Mechatronics_2020/blob/master/LED/20200506210718_HD~1.gif)
+
 Code:
 //initializing a variable for digital pin 2 to 10
 int led1 = 2;
